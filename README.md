@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 <!--- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.-->
-- I’m __MERN Stack__ web & mobile developer.
+- I’m __MERN Stack__ Frontend & Backend developer.
 - I’m mainly interested in __Fronted development__.
 - I’m currently learning __React Native__, __Vue.js__.
 - I’m looking to collaborate on anything!
