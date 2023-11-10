@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 <!--- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.-->
 - I’m __MERN Stack__ Frontend & Backend developer.
 - I’m mainly interested in __Fronted development__.
-- I’m currently learning __React Native__, __Vue.js__.
+- I’m currently learning __Java Spring Boot__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 - How to reach me: __develioglu306@gmail.com__
